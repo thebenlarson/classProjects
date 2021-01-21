@@ -1,0 +1,19 @@
+2020-02-15T16:13:22.138539800 : Peanuts was purchased
+2020-02-15T16:37:27.101504200 : Snickers was purchased
+2020-02-15T16:49:47.450621600 : Snickers was purchased
+2020-02-15T16:49:53.531186 : Snickers was purchased
+2020-02-15T16:49:58.783189200 : Apple Juice was purchased
+2020-02-15T18:58:06.848852200 : Peanuts was purchased
+2020-02-17T09:19:56.958224500 : Snickers was purchased
+2020-02-17T09:33:01.389507500 : Milky Way was purchased
+2020-02-17T09:33:22.045382900 : Lay's was purchased
+2020-02-17T09:34:37.016978600 : Reese's was purchased
+2020-02-17T09:35:48.848843100 : Lay's was purchased
+2020-02-19T10:52:58.306168300 : Apple was purchased
+2020-02-19T10:55:45.932374600 : Apple was purchased
+2020-02-19T10:57:26.900857800 : Apple was purchased
+2020-02-19T11:02:25.112594400 : snickers was purchased
+2020-02-19T11:12:07.946359100 : snickers was purchased
+2020-02-19T11:22:54.433380800 : snickers was purchased
+2020-02-21T09:05:24.486638300 : Snickers was purchased
+2020-02-21T09:13:19.163418600 : Peanuts was purchased

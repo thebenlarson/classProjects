@@ -1,0 +1,10 @@
+com\bl\vendingmachine\ui\VendingMachineView.class
+com\bl\vendingmachine\dao\VendingMachineDao.class
+com\bl\vendingmachine\service\VendingMachineService.class
+com\bl\vendingmachine\App.class
+com\bl\vendingmachine\dao\VendingMachineDaoFileImpl.class
+com\bl\vendingmachine\dto\VendingItem.class
+com\bl\vendingmachine\dao\VendingMachinePersistenceException.class
+com\bl\vendingmachine\ui\UserIOConsoleImpl.class
+com\bl\vendingmachine\ui\UserIO.class
+com\bl\vendingmachine\service\VendingMachineServiceImpl.class
